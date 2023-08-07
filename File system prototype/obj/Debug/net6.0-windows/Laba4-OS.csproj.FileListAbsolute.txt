@@ -1,0 +1,68 @@
+D:\Repos\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.exe
+D:\Repos\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.deps.json
+D:\Repos\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.runtimeconfig.json
+D:\Repos\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.dll
+D:\Repos\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.pdb
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.AssemblyReference.cache
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4_OS.FormFileSystem.resources
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.GenerateResource.cache
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfoInputs.cache
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfo.cs
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.CoreCompileInputs.cache
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.dll
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\refint\Laba4-OS.dll
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.pdb
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.genruntimeconfig.cache
+D:\Repos\Laba4-OS\obj\Debug\net6.0-windows\ref\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.AssemblyReference.cache
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4_OS.FormFileSystem.resources
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.GenerateResource.cache
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfoInputs.cache
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfo.cs
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.CoreCompileInputs.cache
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\refint\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.pdb
+C:\Users\Programmist73\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.exe
+C:\Users\Programmist73\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.deps.json
+C:\Users\Programmist73\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.runtimeconfig.json
+C:\Users\Programmist73\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.pdb
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.genruntimeconfig.cache
+C:\Users\Programmist73\Desktop\Laba4-OS\obj\Debug\net6.0-windows\ref\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.exe
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.deps.json
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.runtimeconfig.json
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.pdb
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.AssemblyReference.cache
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4_OS.FormFileSystem.resources
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.GenerateResource.cache
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfoInputs.cache
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfo.cs
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.CoreCompileInputs.cache
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\refint\Laba4-OS.dll
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.pdb
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.genruntimeconfig.cache
+C:\Users\Programmist73\Desktop\Практика\2-й курс\ОС\Laba4-OS\obj\Debug\net6.0-windows\ref\Laba4-OS.dll
+C:\Users\user\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.exe
+C:\Users\user\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.deps.json
+C:\Users\user\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.runtimeconfig.json
+C:\Users\user\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.dll
+C:\Users\user\Desktop\Laba4-OS\bin\Debug\net6.0-windows\Laba4-OS.pdb
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4_OS.FormFileSystem.resources
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.AssemblyInfo.cs
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.dll
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\refint\Laba4-OS.dll
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.pdb
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\Laba4-OS.genruntimeconfig.cache
+C:\Users\user\Desktop\Laba4-OS\obj\Debug\net6.0-windows\ref\Laba4-OS.dll
